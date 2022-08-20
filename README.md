@@ -1,2 +1,7 @@
-# hataYonetimi
-Hata Yonetimi
+# Hata Yonetimi
+
+
+
+
+
+www.patika.dev
