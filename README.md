@@ -1,0 +1,2 @@
+# hataYonetimi
+Hata Yonetimi
